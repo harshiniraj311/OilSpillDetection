@@ -1,0 +1,16 @@
+sentinelhub
+geopandas
+shapely
+rasterio
+matplotlib
+pyspark
+py4j
+seaborn
+scikit-learn
+opencv-python-headless
+tensorflow
+torch
+numpy
+pillow
+h5py
+findspark
