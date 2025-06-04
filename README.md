@@ -65,9 +65,9 @@ This project presents a scalable, high-performance system for **automated oil sp
 
 Below is an example of oil spill detection on a Sentinel-2 image from the **Indonesia Sea** region:
 
-| Original Image | Detected Mask |
+| Annotated Detection | Detected Mask |
 |----------------|----------------|
-| ![Original](results/Indonesia_Sea/detection.png) | ![Mask](results/Indonesia_Sea/mask.png) |
+| ![Detection](results/Indonesia_Sea/detection.png) | ![Mask](results/Indonesia_Sea/mask.png) |
 
 ---
 
